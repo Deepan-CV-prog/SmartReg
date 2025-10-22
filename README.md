@@ -1,3 +1,5 @@
+#SmartReg
+
 This application is an intelligent, file-based participant registration and management system developed using Java Swing.
 
 It is designed to simplify the process of managing large numbers of participants across multiple events or competitions.
